@@ -1,0 +1,11 @@
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\bin\Debug\Jens og Noah Projekt.exe.config
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\bin\Debug\Jens og Noah Projekt.exe
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\bin\Debug\Jens og Noah Projekt.pdb
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens og Noah Projekt.csproj.AssemblyReference.cache
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens og Noah Projekt.csproj.SuggestedBindingRedirects.cache
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens_og_Noah_Projekt.Form1.resources
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens_og_Noah_Projekt.Properties.Resources.resources
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens og Noah Projekt.csproj.GenerateResource.cache
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens og Noah Projekt.csproj.CoreCompileInputs.cache
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens og Noah Projekt.exe
+C:\CODE PROJECTS VSCODE\C#\Jens og Noah Projekt\Jens og Noah Projekt\obj\Debug\Jens og Noah Projekt.pdb
